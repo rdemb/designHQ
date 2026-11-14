@@ -1,0 +1,6 @@
+{
+  "name": "HyperQuant — BTC & Hyperliquid Day-Trading Desk",
+  "description": "Free, open-source BTC day-trading desk for Hyperliquid with pre-session, in-session, and post-session market context, verifiable forecast ledger, and MCP server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
